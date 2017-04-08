@@ -8,7 +8,7 @@ I've worked as a software engineer for the past five years. Some interesting pro
 
 Another project involved building a massively scalable web service to analyze ITB of twitter data with high constraints on latency and throughput.
 
-Yet another is a project to classify art style paintings using deep convolutional nueral networks.
+Yet another is a project to classify art paintings styles using deep convolutional nueral networks.
 
 I also have vast experience in building mobile applications, with a number of apps successfully on the app store - https://goo.gl/ko7RE0 
 
