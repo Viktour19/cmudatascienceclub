@@ -8,9 +8,13 @@ I've worked as a software engineer for the past five years. Some interesting pro
 
 Another project involved building a massively scalable web service to analyze ITB of twitter data with high constraints on latency and throughput.
 
+Yet another is a project to classify art style paintings using deep convolutional nueral networks.
+
 I also have vast experience in building mobile applications, with a number of apps successfully on the app store - https://goo.gl/ko7RE0 
 
 I'm particularly interested in the inter-relationship between data science and the energy domain, and I hope to develop a career along that path.
+
+I co-lead our partnerships effort and oversee ongoing projects at CMU-Africa datascience club
 
 Blogs: 
 
