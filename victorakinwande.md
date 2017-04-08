@@ -14,5 +14,5 @@ I'm particularly interested in the inter-relationship between data science and t
 
 Blogs: 
 
-[victorakinwande.com](http://victorakinwande.com)
+[victorakinwande.com](http://victorakinwande.com)  
 [datascience.victorakinwande.com](http://datascience.victorakinwande.com)
